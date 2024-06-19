@@ -38,8 +38,8 @@ Add me as admin in your group and start filtering :)
 """
 
 AboutTxT = """
-⭕️ Official Channel : @learningbots79</b>
-⭕️ Developers : @TroJanzHEX 
+⭕️ Official Channel : @cinemaworld_update</b>
+⭕️ Developers : @Leomessi_10_19 
 ⭕️ Upgrader : @Mo_Tech_YT
 ⭕️ Language : Python3
 ⭕️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
